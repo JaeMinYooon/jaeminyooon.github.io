@@ -1,5 +1,5 @@
 ---
-title: Golang tip: ?
+title: Golang tip
 date: 2021-02-17
 categories: tip
 ---
