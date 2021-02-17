@@ -7,6 +7,7 @@ categories: tip
 
 Golang 사용중인 ip 확인하는 코드
 
+```golang
 import (
 	"net"
 	"os"
@@ -27,7 +28,7 @@ func main() {
 		}
 	}
 }
-
+```
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
