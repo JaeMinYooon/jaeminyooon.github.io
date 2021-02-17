@@ -1,6 +1,6 @@
 ---
 title: Golang tip
-date: 2021-02-17 08:26:28 -0400
+date: 2021-02-17
 categories: tip
 ---
 
