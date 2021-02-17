@@ -1,6 +1,6 @@
-Mac에서 port의 pid 찾아서 삭제 하려고 하는데 안될 때 
+<h2>Mac에서 port의 pid 찾아서 삭제 하려고 하는데 안될 때 </h2>
 
--> kill -9 `lsof -i TCP:PORT | awk '/LISTEN/{print $2}'`
+kill -9 `lsof -i TCP:PORT | awk '/LISTEN/{print $2}'`
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
