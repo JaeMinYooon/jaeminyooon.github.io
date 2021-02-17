@@ -1,4 +1,4 @@
-Mysql에서 foreign key 때문에 삭제가 안될 때
+<h2>Mysql에서 foreign key 때문에 삭제가 안될 때</h2>
 
 SET foreign_key_checks = 0;
 
