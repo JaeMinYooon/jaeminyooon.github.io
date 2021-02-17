@@ -1,10 +1,3 @@
----
-title: Golang tip
-date: 2021-02-17
-categories: tip
----
-
-
 Golang 사용중인 ip 확인하는 코드
 
 ```golang
