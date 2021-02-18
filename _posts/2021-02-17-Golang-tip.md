@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Golang 사용중인 ip 확인하는 코드"
+date:   2021-02-17T14:25:52-05:00
+author: Jaemin
+categories: Golang
+---
+
 <h2>Golang 사용중인 ip 확인하는 코드</h2>
 
 ```golang
@@ -22,7 +30,3 @@ func main() {
 	}
 }
 ```
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
