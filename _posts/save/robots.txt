@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: http://ivelee.github.io/sitemap.xml
