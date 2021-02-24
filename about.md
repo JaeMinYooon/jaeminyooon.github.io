@@ -9,6 +9,4 @@ main_nav: true
 
 나중에...
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+![github]{https://github.com/JaeMinYooon}
