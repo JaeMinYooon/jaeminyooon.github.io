@@ -3,7 +3,7 @@
 plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 exclude:
   - "/vendor/"
@@ -25,16 +25,18 @@ logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
+paginate: 5
+paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 
 # Pagination Settings
 # https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: "/page/:num/"
-  sort_reverse: true
+#pagination:   ######### 페이지네이션 시도중
+#  enabled: true
+#  per_page: 5
+#  permalink: "/page/:num/"
+#  sort_reverse: true
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
