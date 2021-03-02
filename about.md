@@ -9,4 +9,4 @@ main_nav: true
 
 나중에...
 
-![My github](https://github.com/JaeMinYooon)
+[My github](https://github.com/JaeMinYooon)
