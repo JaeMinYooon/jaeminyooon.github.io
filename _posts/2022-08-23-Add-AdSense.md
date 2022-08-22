@@ -6,7 +6,7 @@ author: Jaemin
 categories: etc
 ---
 
-귀찮지만 github blog를 사용하는 사용자를 위해..
+귀찮지만 github blog를 사용하는 사용자를 위해.. (나중에 더 자세하게 포스트 할 예정)
 
 <h2>0. 애드센스 사전작업</h2>
 [구글 애드센스](http://www.google.com/adsense/)에서 사이트 신청을 해야한다.
