@@ -3,7 +3,7 @@ layout: post
 title: "깃허브 블로그에 AdSense 추가하기"
 date: 2022-08-23T02:25:52-05:00
 author: Jaemin
-categories: etc
+categories: Blog
 ---
 
 귀찮지만 github blog를 사용하는 사용자를 위해.. (나중에 더 자세하게 포스트 할 예정)
