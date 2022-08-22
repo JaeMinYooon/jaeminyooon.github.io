@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "깃허브 블로그에 AdSense 추가하기"
-date: 2022-08-23T02:25:52-05:00
+date: 2022-08-22T02:25:52-05:00
 author: Jaemin
 categories: Blog
 ---
