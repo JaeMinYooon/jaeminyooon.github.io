@@ -3,7 +3,7 @@ layout: post
 title: "homebrew install error"
 date: 2022-09-06T02:25:52-05:00
 author: Jaemin
-categories: Blog
+categories: MAC
 ---
 
 homebrew를 설치 한 후에도 
