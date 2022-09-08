@@ -11,7 +11,6 @@ homebrew를 설치 한 후에도
 zsh: command not found: brew
 ```
 와 같은 에러가 계속 나온다면
-
 ```
    eval $(/opt/homebrew/bin/brew shellenv)
 ```
